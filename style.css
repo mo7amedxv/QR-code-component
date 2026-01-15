@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
@@ -19,13 +19,13 @@ body {
     padding: 30px;
     border-radius: 50px;
     box-shadow: 2px 2px 20px 15px hsla(216, 15%, 48%, 0.144);
-    /* width: 800px; */
+    /* width: 800px; 
 
 }
 
 img {
     border-radius: 40px;
-    /* width: 100%; */
+    /* width: 100%;
 }
 
 p {
@@ -47,3 +47,5 @@ p {
     margin: -10px;
     padding-bottom: 20px;
 }
+
+*/
